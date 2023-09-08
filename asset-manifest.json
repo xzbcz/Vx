@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f98ab61a.css",
+    "main.js": "/static/js/main.2cf6b1a8.js",
+    "static/media/omenDraco.gltf": "/static/media/omenDraco.5e6ed91f7b02a5b2dcf8.gltf",
+    "static/media/bokeh.m4v": "/static/media/bokeh.3d2053b24813fa1bddfc.m4v",
+    "static/media/vid.mp4": "/static/media/vid.a96c50348f1df786d31d.mp4",
+    "static/media/menusBG.mp4": "/static/media/menusBG.eb160d7070c417d77649.mp4",
+    "static/media/valorantBattle.m4v": "/static/media/valorantBattle.c5ac63af8f81e1529ecf.m4v",
+    "static/media/1.png": "/static/media/1.b85447efa52ce1a8b505.png",
+    "static/media/thunderstorm.m4v": "/static/media/thunderstorm.9a919c107ad0da76deed.m4v",
+    "static/media/valspoofThumb.jpg": "/static/media/valspoofThumb.4e42b2dcf8d748bd3ee0.jpg",
+    "static/media/valhookThumb.jpg": "/static/media/valhookThumb.f23ecee78446c7ed0781.jpg",
+    "static/media/heroBG.jpg": "/static/media/heroBG.63f371d048de713cc5db.jpg",
+    "static/media/2.png": "/static/media/2.df990402040fb9aa713f.png",
+    "static/media/3.png": "/static/media/3.aae11f5b88f4fc004ac8.png",
+    "static/media/4.png": "/static/media/4.aed5a72ddee49ff90a7b.png",
+    "static/media/infoBG.jpg": "/static/media/infoBG.f7868356180a34a8d7e1.jpg",
+    "static/media/mobilePreview.jpg": "/static/media/mobilePreview.f4db4fd6130db8a62efa.jpg",
+    "static/media/preview.jpg": "/static/media/preview.23c2029edafbb9b96b63.jpg",
+    "static/media/valhaxtextlarge.svg": "/static/media/valhaxtextlarge.13ee683343b4d4f32770ed8da58416fe.svg",
+    "index.html": "/index.html",
+    "static/media/discord.svg": "/static/media/discord.487e8c6a5e52e51b650248716b9250fb.svg",
+    "static/media/telegram.svg": "/static/media/telegram.321403849160a46062e6396da2e29e74.svg",
+    "static/media/checkbox.svg": "/static/media/checkbox.fe98cbe64ea8070c06c6f9fc65b9d9b3.svg",
+    "static/media/check.svg": "/static/media/check.3ef2bddebe1651513b0b.svg",
+    "static/media/youtube.svg": "/static/media/youtube.03ce3320ff936a5602d06dd6afaa6903.svg",
+    "static/media/x.svg": "/static/media/x.532f6f138d3bff9c968a.svg",
+    "static/media/logo.svg": "/static/media/logo.8ee3fe8173bfd612daf6.svg"
+  },
+  "entrypoints": [
+    "static/css/main.f98ab61a.css",
+    "static/js/main.2cf6b1a8.js"
+  ]
+}
